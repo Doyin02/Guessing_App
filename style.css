@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.container{
+    background-color: blueviolet;
+    height: 300px;
+    width: 600px;
+    margin: auto;
+    border-radius: 10px;
+}
+p{
+    text-align: center;
+    margin: 70px auto;
+    font-size: 30px;
+}
+#input{
+    height: 30px;
+    width: 300px;
+    margin: auto;
+    border-radius: 6px;
+    display: block;
+}
+#guess{
+    margin-top: -30px;
+}
+#btn{
+    background-color: lightblue;
+    margin-left: 230px;
+    outline: none;
+    padding: 10px 10px;
+    border-radius: 6px;
+    
+}
